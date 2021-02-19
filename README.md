@@ -1,10 +1,10 @@
-# gb32960
+# GB32960
 GB32960通信服务
 
 ## 使用说明
 #### 启动命令：
 
-java -jar lbs-communication-server-gb32960-1.0.0-SNAPSHOT.jar
+java -jar communication-server-gb32960-1.0.0-SNAPSHOT.jar
 
 #### 客户端连接：
 
