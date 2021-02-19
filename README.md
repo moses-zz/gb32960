@@ -4,7 +4,7 @@ GB32960
 ## 使用说明
 #### 启动命令：
 
-java -jar communication-server-jt808-1.0.0-SNAPSHOT.jar
+java -jar lbs-communication-server-gb32960-1.0.0-SNAPSHOT.jar
 
 #### 客户端连接：
 
